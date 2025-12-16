@@ -1,0 +1,4 @@
+tliptak@MacBook-Air-uzivatela-Timotej mcino-Introduction-to-Git-and-GitHub % git branch -vv
+* bug-fix-revert 2e2945e [origin/bug-fix-revert] Revert: Included curl command output for PR verification
+  bug-fix-typo   d47a19e Update copyright year in README.md
+  main           a39c688 [origin/main: ahead 2] Revert "Merge: Included merge-branches output for project submission"
